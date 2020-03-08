@@ -1,0 +1,10 @@
+footer{
+    background-color: #17376e;
+    line-height: 15px;
+    padding: 15px 30px 15px 30px;
+    color: #fff;
+    text-align: center;
+}
+footer p{display: inline-block; padding: 0 25px;}
+footer .row div{background-color: #17376e;}
+footer .row{background-color: #17376e;}

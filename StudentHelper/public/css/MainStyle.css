@@ -1,0 +1,67 @@
+.container-fluid{padding: 0;}
+body{
+    background: url("/images/background.jpg");
+    background-size: 100% 100%;
+}
+.row{display: block; margin: 0;}
+div.content{min-height: 782px;}
+div.register{
+    width: 400px;
+    float: none;
+    margin: 100px auto;
+    display: block;
+}
+div.register form{background-color: gray; height: 300px; line-height: 20px;}
+div.register form input,select{margin: 9px;}
+.content .userData{
+    background-color: gray;
+    width: 514px;
+    float: none;
+    margin: 100px auto;
+    display: block;
+}
+.coursePresentData{
+    background-color: gray;
+    width: 454px;
+    float: none;
+    margin: 100px auto;
+    display: block;
+}
+.content .courseData{
+    background-color: gray;
+    width: 354px;
+    float: none;
+    margin: 100px auto;
+    display: block;
+}
+.content .universityData{
+    background-color: #c78f8f;
+    width: 63%;
+    float: none;
+    margin: 100px auto;
+    display: block;
+    text-align: center;
+}
+.content .universityData table{
+    display: block;
+    float: none;
+    margin: 0 auto;
+}
+div.courseRegister form{height: 350px;}
+.content .userData table tr td,
+.content .courseData table tr td,
+ .coursePresentData table tr td,
+.content .universityData table tr td{
+    border: 1px solid black;
+    padding: 3px;
+    text-align: center;
+}
+.content .universityData table tr td.address{
+    width: 176px;
+}
+.content a{
+    color: white;
+}
+.coursePresentData form{margin-top: 20px; text-align: center;}
+.coursePresentData form input{text-align: center;}
+

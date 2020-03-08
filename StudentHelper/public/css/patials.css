@@ -1,0 +1,6 @@
+.navbar{background-color: #225092;}
+.navbar-nav > li > .dropdown-menu { background-color:#225092; }
+.navbar-nav > li > .dropdown-menu a { color: white; }
+.navbar-nav > li > .dropdown-menu a:hover { background-color: #007bff; }
+a#navbardrop{color: #c5c0c0; font-weight: 700;}
+.navbar .navbar-brand img{ width: 353px; height: 100px;}
